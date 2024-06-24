@@ -50,10 +50,10 @@ Amoung the different types of multimodal-deep learning, we focus on late fusion 
 
 Some researches claim the wavelet transform (WT) often contribute more useful information. Therefore, we chose to apply it to our fusion model.
 
-Apply wavelet decomposition on CT image to generate approximate coefficient LL1 and three detail coefficients: LH1(horizontal), LV1(vertical), LD1(diagonal)
-Apply wavelet decomposition on MRI the same way
-Apply fusion based on VGG network on four generated pairs and generate fused LL, LH, LV and LD band.
-Apply inverse wavelet transform on the four bands generated to obtain final fused image.
+- Apply wavelet decomposition on CT image to generate approximate coefficient LL1 and three detail coefficients: LH1(horizontal), LV1(vertical), LD1(diagonal)
+- Apply wavelet decomposition on MRI the same way
+- Apply fusion based on VGG network on four generated pairs and generate fused LL, LH, LV and LD band.
+- Apply inverse wavelet transform on the four bands generated to obtain final fused image.
 
 ![image](https://github.com/hguhcbuf/Multimodal-Deep-Learning-and-XAI-for-Cerebral-Hemorrhage-Diagnosis/assets/69788954/e3ff4a56-d7c4-4f4f-921b-2f79ee1264de)
 
