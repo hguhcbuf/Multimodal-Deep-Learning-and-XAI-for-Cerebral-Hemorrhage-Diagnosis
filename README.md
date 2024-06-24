@@ -11,7 +11,7 @@ Our goal is to use multimodal medical imaging to provide a separate yet compleme
 The motivation for multimodal imaging is to obtain a superior and exquisite image that will provide more reliable statistics than single images
 
 
-##Data
+(h2) ##Data
 
 Our diagnostic tools include Computed tomography (CT) and Magnetic resonance imaging (MRI) from 81 different patients.
 
