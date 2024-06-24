@@ -1,7 +1,5 @@
 # Multimodal-Deep-Learning-and-XAI-for-Cerebral-Hemorrhage-Diagnosis
 
-### team 3
-
 
 
 - Images are the largest source of data in healthcare and, at the same time, one of the most difficult sources to analyze. 
